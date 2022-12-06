@@ -2,8 +2,8 @@
   "driverBasePackage" : {
     "driverInputPrompts" : [ {
       "key" : "shim-auth-id",
-      "name" : "Authentication id",
-      "value" : "cn=Directory Manager",
+      "name" : "Authentication idjhjhgwd",
+      "value" : "cn=Directory ManagerManafeeggwh",
       "type" : "string",
       "prompt" : "NOVLLDAPBASE-InitSettingsPrompts"
     }, {
